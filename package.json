@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "less": "^2.7.3",
+    "less-watch-compile": "^1.1.8",
     "less-watch-compiler": "^1.10.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",

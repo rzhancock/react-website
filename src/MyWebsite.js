@@ -7,7 +7,9 @@ import './Main.css';
 class MyWebsite extends React.Component {
 	render() {
 		return ( 
-			<Nav />
+			<div  className="container">
+				<Nav />
+			</div>
 		)
 	}
 }
